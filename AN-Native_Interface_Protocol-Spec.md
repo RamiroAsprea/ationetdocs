@@ -17,6 +17,8 @@
 |1.2|30/10/2013|**Account Inquiries** <br> - Added Action 943 Contract Balance Enquiry <br> - New group of actions: 951 – 959 Account Download (partial) <br> Actions: 951 Sub-Account Movements Download <br> - 952 Contract Movements Download|
 |1.3|05/07/2014|**Statement Charges** <br> - Added Action 903 Transfer balance from sub-account to a sub-account<br> - Added Action 904 Transfer balance from contract to a sub-account <br> - Added Action 905 Transfer balance from sub-account to a contract <br> - Change and reorganize request and response records<br> **Transactions Downloads** <br> - Change and reorganize request and response records <br> - Account Inquiries <br> - Remove Action 943 Contract Balance Enquiry <br> - Change and reorganize request and response records **Account Downloads** <br> - Remove Action 952 Contract Movements Download <br> - Change Action 951 Sub-Account Movements Download to 951 Movements Download <br> - Change and reorganize request and response records <br>**Error Handling** <br> - Include “ResponseError” in response record for actions intended to post a command|
 |1.4|27/11/2018|**FastTrack** <br> - Added Action 971 Request insertion of new FastTrack <br> - Added Action 972 Request FastTrack list download|
+|1.5|03/12/2020|**TEST** <br> - TEST <br> - TEST|
+
 
 ## Contents
 
